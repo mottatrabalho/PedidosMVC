@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/05/25 14:40:05.000.999,=C:\Users\Master\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/05/27 23:07:26.000.209,=C:\Users\Master\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/05/27 23:07:53.000.506,C:\Work\2024-05-29 - WK\uPrincipal.dfm=C:\Users\Master\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2024/05/27 23:07:53.000.506,C:\Work\2024-05-29 - WK\uPrincipal.pas=C:\Users\Master\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/05/27 23:08:02.000.272,C:\Work\2024-05-29 - WK\PedidosWK.dproj=C:\Users\Master\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2024/05/29 12:56:31.000.555,C:\Work\WK\2024-05-29 - WK\uPrincipal.pas=C:\Work\WK\View\View.Principal.pas</Transaction>
+    <Transaction>2024/05/29 12:56:31.000.555,C:\Work\WK\2024-05-29 - WK\uPrincipal.dfm=C:\Work\WK\View\View.Principal.dfm</Transaction>
+    <Transaction>2024/05/29 19:52:43.000.767,=C:\Work\WK\2024-05-29 - WK\Unit1.pas</Transaction>
+    <Transaction>2024/05/29 19:56:16.000.787,C:\Work\WK\Model\Model.Cliente.pas=C:\Work\WK\2024-05-29 - WK\Unit1.pas</Transaction>
+    <Transaction>2024/05/29 20:02:23.000.710,=C:\Work\WK\2024-05-29 - WK\Unit1.pas</Transaction>
+    <Transaction>2024/05/29 20:03:26.000.797,C:\Work\WK\Controller\Controller.Cliente.pas=C:\Work\WK\2024-05-29 - WK\Unit1.pas</Transaction>
+    <Transaction>2024/05/29 20:09:55.000.330,=C:\Work\WK\2024-05-29 - WK\Unit1.pas</Transaction>
+    <Transaction>2024/05/29 20:10:14.000.001,C:\Work\WK\DAO\DAO.Pedidos.pas=C:\Work\WK\2024-05-29 - WK\Unit1.pas</Transaction>
+    <Transaction>2024/05/29 20:10:14.000.001,C:\Work\WK\DAO\DAO.Pedidos.dfm=C:\Work\WK\2024-05-29 - WK\Unit1.dfm</Transaction>
+    <Transaction>2024/05/29 20:13:52.000.169,C:\Work\WK\PedidosWK.dproj=C:\Work\WK\2024-05-29 - WK\PedidosWK.dproj</Transaction>
+    <Transaction>2024/05/29 21:02:05.000.853,=C:\Work\WK\Unit1.pas</Transaction>
+    <Transaction>2024/05/29 21:06:40.000.205,C:\Work\WK\Model\Model.Produto.pas=C:\Work\WK\Unit1.pas</Transaction>
+    <Transaction>2024/05/29 21:06:59.000.158,=C:\Work\WK\Unit1.pas</Transaction>
+    <Transaction>2024/05/29 21:08:54.000.763,C:\Work\WK\Controller\Controller.Produto.pas=C:\Work\WK\Unit1.pas</Transaction>
+    <Transaction>2024/05/31 07:58:15.000.032,C:\Work\WK\Controller\Controller.Cliente.pas=</Transaction>
+    <Transaction>2024/05/31 07:58:20.000.828,C:\Work\WK\Controller\Controller.Produto.pas=</Transaction>
+    <Transaction>2024/05/31 07:58:27.000.375,C:\Work\WK\DAO\DAO.Pedidos.pas=</Transaction>
+    <Transaction>2024/05/31 07:58:33.000.875,C:\Work\WK\Model\Model.Cliente.pas=</Transaction>
+    <Transaction>2024/05/31 07:58:39.000.531,C:\Work\WK\Model\Model.Produto.pas=</Transaction>
+    <Transaction>2024/05/31 07:59:05.000.342,=C:\Work\WK\Controller\Controller.Pedido.pas</Transaction>
+    <Transaction>2024/05/31 07:59:05.000.389,=C:\Work\WK\Controller\Controller.Produto.pas</Transaction>
+    <Transaction>2024/05/31 07:59:05.000.327,=C:\Work\WK\Controller\Controller.Cliente.pas</Transaction>
+    <Transaction>2024/05/31 07:59:05.000.358,=C:\Work\WK\Controller\Controller.PedidoItem.pas</Transaction>
+    <Transaction>2024/05/31 07:59:17.000.748,=C:\Work\WK\Model\Model.Cliente.pas</Transaction>
+    <Transaction>2024/05/31 07:59:17.000.748,=C:\Work\WK\Model\Model.Pedido.pas</Transaction>
+    <Transaction>2024/05/31 07:59:17.000.779,=C:\Work\WK\Model\Model.Produto.pas</Transaction>
+    <Transaction>2024/05/31 07:59:17.000.764,=C:\Work\WK\Model\Model.PedidoItem.pas</Transaction>
+    <Transaction>2024/05/31 07:59:27.000.279,=C:\Work\WK\DAO\DAO.Sistema.pas</Transaction>
+    <Transaction>2024/05/31 10:34:05.000.759,=C:\Work\WK\Unit1.pas</Transaction>
+    <Transaction>2024/05/31 10:35:26.000.611,C:\Work\WK\View\View.CarregaPedido.dfm=C:\Work\WK\Unit1.dfm</Transaction>
+    <Transaction>2024/05/31 10:35:26.000.611,C:\Work\WK\View\View.CarregaPedido.pas=C:\Work\WK\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
