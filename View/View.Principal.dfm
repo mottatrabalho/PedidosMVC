@@ -46,6 +46,7 @@ object frmPedidos: TfrmPedidos
       Top = 13
       Width = 96
       Height = 23
+      Enabled = False
       TabOrder = 0
     end
     object edtPedido: TEdit
@@ -53,6 +54,7 @@ object frmPedidos: TfrmPedidos
       Top = 13
       Width = 47
       Height = 23
+      Enabled = False
       TabOrder = 1
       OnExit = edtPedidoExit
     end
@@ -298,7 +300,6 @@ object frmPedidos: TfrmPedidos
       Caption = 'Gravar Pedido'
       TabOrder = 0
       OnClick = btnGravaClick
-      ExplicitLeft = 149
     end
     object btnCarregaPedido: TBitBtn
       AlignWithMargins = True
@@ -315,8 +316,6 @@ object frmPedidos: TfrmPedidos
       TabOrder = 1
       Visible = False
       OnClick = btnCarregaPedidoClick
-      ExplicitLeft = 218
-      ExplicitTop = 8
     end
   end
   object dsPedidoItem: TDataSource

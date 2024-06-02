@@ -134,6 +134,9 @@ begin
   edtPedido.Text     := '0';
   edtCodCliente.Text := '0';
   edtNomeCliente.Clear;
+
+  btnCancela.Visible       := (Trim(edtCodCliente.Text) = '0') or (Trim(edtCodCliente.Text) = EmptyStr);
+  btnCarregaPedido.Visible := (Trim(edtCodCliente.Text) = '0') or (Trim(edtCodCliente.Text) = EmptyStr);
 end;
 
 procedure TfrmPedidos.LimpaCliente;
@@ -324,8 +327,8 @@ begin
     edtCodProduto.SetFocus;
   end;
 
-  btnCancela.Visible       := (edtCodCliente.Text = '0') or (edtCodCliente.Text = EmptyStr);
-  btnCarregaPedido.Visible := (edtCodCliente.Text = '0') or (edtCodCliente.Text = EmptyStr);
+  btnCancela.Visible       := (Trim(edtCodCliente.Text) = '0') or (Trim(edtCodCliente.Text) = EmptyStr);
+  btnCarregaPedido.Visible := (Trim(edtCodCliente.Text) = '0') or (Trim(edtCodCliente.Text) = EmptyStr);
 end;
 
 procedure TfrmPedidos.edtCodProdutoExit(Sender: TObject);
