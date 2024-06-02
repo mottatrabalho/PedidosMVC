@@ -40,9 +40,11 @@ implementation
 procedure TDMMaster.DataModuleCreate(Sender: TObject);
 var
   CfgBDIni: TIniFile;
+  cCaminho :string;
 begin
+  cCaminho := ExtractFilePath(ParamStr(0));
   fdcMaster.Connected := False;
-  CfgBDIni := TIniFile.Create('PedidosMVC.ini');
+  CfgBDIni := TIniFile.Create(cCaminho + 'PedidosMVC.ini');
   fdcMaster.Params.Database := CfgBDIni.ReadString('BancoDados', 'NomeBanco', '');
   MySQLLink.VendorLib       := CfgBDIni.ReadString('BancoDados', 'VendorDLL', '');
 end;
